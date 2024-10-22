@@ -22,7 +22,9 @@
     <section class="padding-x w-full py-16 sm:py-32">
       <Subscribe />
     </section>
-    <section class="padding-x padding-t bg-black">Footer</section>
+    <section class="padding-x padding-t bg-black pb-8">
+      <Footer />
+    </section>
   </main>
 </template>
 
@@ -30,6 +32,7 @@
 import { Nav } from './components'
 import {
   CustomerReviews,
+  Footer,
   Hero,
   PopularProducts,
   Services,
