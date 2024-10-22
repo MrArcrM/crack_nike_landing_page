@@ -8,7 +8,7 @@
       <PopularProducts />
     </section>
     <section class="padding">
-      <!-- <SuperQuality /> -->
+      <SuperQuality />
     </section>
     <section class="padding-x py-10">
       <Services />
@@ -35,5 +35,6 @@ import {
   Services,
   SpecialOffer,
   Subscribe,
+  SuperQuality,
 } from './sections'
 </script>

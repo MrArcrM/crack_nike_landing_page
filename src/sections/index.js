@@ -7,7 +7,6 @@ import SpecialOffer from './SpecialOffer.vue'
 import Subscribe from './Subscribe.vue'
 import SuperQuality from './SuperQuality.vue'
 
-
 export {
   CustomerReviews, Footer, Hero,
   PopularProducts, Services,
