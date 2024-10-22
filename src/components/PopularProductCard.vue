@@ -22,7 +22,7 @@
 import { star } from '../assets/icons'
 
 const props = defineProps({
-  imgURL: Object,
+  imgURL: String,
   name: String,
   price: String,
 })
